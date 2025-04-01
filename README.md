@@ -1,5 +1,4 @@
 # Title
 Description
 
-**Developed for:**
-https://www.youtube.com/@nitwitsMC
+**Moved to** https://github.com/Craemon/Datapacks
