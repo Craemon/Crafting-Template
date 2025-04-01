@@ -1,4 +1,4 @@
 # Title
 Description
 
-**Moved to** https://github.com/Craemon/Datapacks
+**Moved to:** https://github.com/Craemon/Datapacks
